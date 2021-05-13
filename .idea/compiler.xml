@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lxzcrowdfunding01-admin-entity" />
+        <module name="lxzcrowdfunding01-admin-webui" />
+        <module name="lxzcrowdfunding01-common-util" />
+        <module name="lxzcrowdfunding06-common-reverse" />
+        <module name="lxzcrowdfunding-member-project" />
+        <module name="lxzcrowdfunding01-admin-component" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
